@@ -2,20 +2,20 @@
 https://www.udemy.com/java-tutorial/learn/#/
 
 ### Data Store:
-#### List
+#### List (any values with the same type)
   - LinkedList
   - ArrayList
   - Vector
 
-#### Set
+#### Set (unique values)
   - HashSet
-  - LinkedHashSet
-  - TreeSet
+  - LinkedHashSet (maintains insersion order)
+  - TreeSet (maintains ascending order by value)
 
-#### Map
+#### Map (key,value pairs)
   - HashMap
-  - LinkedHashMap
-  - TreeMap
+  - LinkedHashMap (maintains insersion order)
+  - TreeMap (maintains ascending order by key)
   - WeakHashMap
   - IdentityHashMap
 
